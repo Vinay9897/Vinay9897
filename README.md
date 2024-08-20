@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vinay Yadav
 - 👀 I’m interested in Solving a Real World Problems
-- 🌱 I’m currently learning Spring Boot
+- 🌱 I’m a learner of Java, Spring Boot, Microservices
 
 
 <!---
