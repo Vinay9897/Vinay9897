@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Vinay Yadav
 - 👀 I’m interested in Solving a Real World Problems
 - 🌱 I’m a learner of Java, Spring Boot, Microservices
+- Currently Doing Intership Exploring new technologies AWS, Jira, Agile Methodologies etc
 
 
 <!---
