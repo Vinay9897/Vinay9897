@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinay Yadav</h1>
-<h3 align="center">Profient in Java, Spring, Microservices and  little knowledge of Front End Technologies</h3>
+<h3 align="center">Profient in Java, Spring Boot, Microservices and  little knowledge of Front End Technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinay9897&label=Profile%20views&color=0e75b6&style=flat" alt="vinay9897" /> </p>
 
