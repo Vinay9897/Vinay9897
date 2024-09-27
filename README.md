@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vinayyadav91190@gmail.com**
 
-- ⚡ Fun fact **Knowledge make not teach how to add love and minus hate. But give hope every problem has solution**
+- ⚡ Fun fact **Knowledge may not teach how to add love or minus hate. But give hope every problem has solution.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
