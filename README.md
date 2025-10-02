@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinay9897" alt="vinay9897" /></a> </p>
 
-- 🔭 I’m currently working on **PayPal Integration Project**
+- 🔭 I’m currently working on **Developing Java Application with Agentic AI**
 
 - 🌱 I’m currently learning **Frameworks, Project Management Tool, Design and Patterns**
 
